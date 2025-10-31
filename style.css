@@ -1,6 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Fleur+De+Leah&family=Limelight&family=Playpen+Sans:wght@100..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
+
 body {
 
 color: rgb(255, 190, 201) ;
 
-font-family:
+font-family:Playpen sans;
+}
+
+h1 { 
+font-family:Festive;
+
+}
+
+h2 {
+
+font-family:Story Script ;
+}
+
+h1 {
+color:rgb(218, 183, 137) ;
+
+text-align: center;
+
+font-size: 45px;
+}
+
+a {
+color:rgb(107, 50, 50);
+
+font-family:fleur de leah ;
+
+font-size: 30px;
+}
+
+hr {
+border: 2px solid rgb(210, 237, 237);
 }
